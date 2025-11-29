@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    width: 100vw;
+}
+.recette{
+    display:flex ;
+    flex-direction: row ;
+}
+.recette img{
+    width: 40vw;
+    object-fit: cover;
+    margin: 10px;
+    border-radius: 20px;
+    border: 1px solid;
+}
+
