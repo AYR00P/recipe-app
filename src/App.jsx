@@ -1,7 +1,7 @@
 import Acceuil, {recettes} from './assets/components/acceuil';
 import './App.css'
 import {BrowserRouter , Routes, Route} from 'react-router-dom';
-import Faq from './assets/components/faq';
+import Faq from './assets/components/Faq';
 import Connexion from './assets/components/Connexion';
 import Recette from './assets/components/Recette';
 
