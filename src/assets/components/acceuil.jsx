@@ -8,7 +8,7 @@ import padthaiImage from "../image/padthai.jpg";
 import butterchickenImage from "../image/butterchicken.jpg"; 
 import boeufImage from "../image/boeufbourguignon.jpg"; 
 import churrascoImage from "../image/churrasco.jpg"; 
-import poutineImage from "../image/poutine.jpg"; 
+import poutineImage from "../image/Poutine.jpg"; 
 import dimsumImage from "../image/dimsum.jpg"; 
 import ramenImage from "../image/ramen.jpg";
 import paellaImage from "../image/paella.jpg";  
